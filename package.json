@@ -1,0 +1,22 @@
+{
+  "name": "paneer-store-api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushSaini00/paneer-store-api.git"
+  },
+  "author": "Ayush Saini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AyushSaini00/paneer-store-api/issues"
+  },
+  "homepage": "https://github.com/AyushSaini00/paneer-store-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
