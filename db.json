@@ -6,7 +6,7 @@
             "id": 1,
             "rating": 3,
             "price": 350,
-            "image": "./assets/paneer-tikka-masala.jpg"
+            "image": "assets/paneer-tikka-masala.jpg"
         },
         {
             "name": "Matar Paneer",
@@ -14,7 +14,7 @@
             "id": 2,
             "rating": 4.5,
             "price": 100,
-            "image": "./assets/matar-paneer.jpg"
+            "image": "assets/matar-paneer.jpg"
         },
         {
             "name": "Khoya Paneer",
@@ -22,7 +22,7 @@
             "id": 3,
             "rating": 3,
             "price": 100,
-            "image": "./assets/khoya-paneer.jpg"
+            "image": "assets/khoya-paneer.jpg"
         },
         {
             "name": "Shahi Paneer",
@@ -30,7 +30,7 @@
             "id": 4,
             "rating": 3,
             "price": 110,
-            "image": "./assets/shahi-paneer.jpg"
+            "image": "assets/shahi-paneer.jpg"
         },
         {
             "name": "Paneer Butter Masala",
@@ -38,7 +38,7 @@
             "id": 5,
             "rating": 3.5,
             "price": 120,
-            "image": "./assets/paneer-butter-masala.jpg"
+            "image": "assets/paneer-butter-masala.jpg"
         },
         {
             "name": "Paneer Masala",
@@ -46,7 +46,7 @@
             "id": 6,
             "rating": 3,
             "price": 110,
-            "image": "./assets/paneer-masala.jpg"
+            "image": "assets/paneer-masala.jpg"
         },
         {
             "name": "Aloo Pyaz Paneer",
@@ -54,7 +54,7 @@
             "id": 7,
             "rating": 4.2,
             "price": 100,
-            "image": "./assets/aloo-pyaz-paneer.jpg"
+            "image": "assets/aloo-pyaz-paneer.jpg"
         },
         {
             "name": "Chilli Paneer",
@@ -62,7 +62,7 @@
             "id": 8,
             "rating": 2.5,
             "price": 120,
-            "image": "./assets/chilli-paneer.jpg"
+            "image": "assets/chilli-paneer.jpg"
         },
         {
             "name": "Kadai Paneer",
@@ -70,7 +70,7 @@
             "id": 9,
             "rating": 3.5,
             "price": 120,
-            "image": "./assets/kadai-paneer.jpg"
+            "image": "assets/kadai-paneer.jpg"
         },
         {
             "name": "Paneer Lababdar",
@@ -78,7 +78,7 @@
             "id": 10,
             "rating": 3.2,
             "price": 120,
-            "image": "./assets/paneer-lababdar.jpg"
+            "image": "assets/paneer-lababdar.jpg"
         },
         {
             "name": "Palak Paneer",
@@ -86,7 +86,7 @@
             "id": 11,
             "rating": 3.9,
             "price": 119,
-            "image": "./assets/palak-paneer.jpg"
+            "image": "assets/palak-paneer.jpg"
         },
         {
             "name": "Paneer Bhurji",
@@ -94,7 +94,7 @@
             "id": 12,
             "rating": 4.1,
             "price": 161.9,
-            "image": "./assets/paneer-bhurji.jpg"
+            "image": "assets/paneer-bhurji.jpg"
         }
     ]
 }
