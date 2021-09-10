@@ -95,6 +95,70 @@
             "rating": 4.1,
             "price": 161.9,
             "image": "assets/paneer-bhurji.png"
+        },
+        {
+            "name": "Paneer Paratha",
+            "description": "Paneer paratha is a popular North Indian flatbread made with whole wheat flour dough and stuffed with savory, spiced, grated paneer (Indian cottage cheese) stuffing",
+            "id": 13,
+            "rating": 3.9,
+            "price": 90,
+            "image": "assets/paneer-paratha.jpg"
+        },
+        {
+            "name": "Paneer Tikka",
+            "description": "Paneer tikka is a North Indian appetizer where chunks of paneer are marinated in spiced yogurt and grilled in a Tandoor",
+            "id": 14,
+            "rating": 4,
+            "price": 300,
+            "image": "assets/paneer-tikka.jpg"
+        },
+        {
+            "name": "Peshawari Paneer Tikka",
+            "description": null,
+            "id": 15,
+            "rating": 4.4,
+            "price": 320,
+            "image": "assets/peshawari-paneer-tikka.jpg"
+        },
+        {
+            "name": "Paneer Patties",
+            "description": null,
+            "id": 16,
+            "rating": 4.6,
+            "price": 50,
+            "image": "assets/paneer-patties.jpg"
+        },
+        {
+            "name": "Paneer Cheese Pizza",
+            "description": "Pizza with cheese and paneer toppings",
+            "id": 17,
+            "rating": 4.2,
+            "price": 133.93,
+            "image": "assets/paneer-cheese-pizza.jpg"
+        },
+        {
+            "name": "Paneer Kulcha",
+            "description": null,
+            "id": 18,
+            "rating": 4,
+            "price": 40.17,
+            "image": "assets/paneer-kulcha.jpg"
+        },
+        {
+            "name": "Paneer Grill Sandwich",
+            "description": "Grilled sandwich with paneer",
+            "id": 19,
+            "rating": 4.4,
+            "price": 75.89,
+            "image": "assets/paneer-grill-sandwich.jpg"
+        },
+        {
+            "name": "Crispy Paneer Wrap",
+            "description": "Served wraps in whole wheat tortilla with tasty sauce and patty with vegetables",
+            "id": 20,
+            "rating": 4.3,
+            "price": 129.50,
+            "image": "assets/paneer-grill-sandwich.jpg"
         }
     ]
 }
